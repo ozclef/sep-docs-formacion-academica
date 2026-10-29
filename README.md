@@ -1,10 +1,57 @@
 
 
+# Recursos y documentación sobre Prepa en Línea-SEP
 
 
+
+## Objetivo
+
+Este repositorio reúne enlaces, documentos públicos y referencias útiles para consultar información sobre Prepa en Línea-SEP y orientar la recuperación de antecedentes académicos.
+
+El propósito es facilitar la consulta de fuentes oficiales, organizar la documentación disponible y ayudar a formular solicitudes claras a las autoridades educativas correspondientes.
+
+## Contenido
+
+- Enlaces a recursos y páginas oficiales.
+- Documentos públicos de referencia.
+- Orientación para organizar evidencias académicas.
+- Guías para solicitar aclaraciones sobre historial, módulos cursados y documentos escolares.
+
+## Criterios de documentación
+
+La información se organiza procurando distinguir entre:
+
+- **Fuente oficial:** información publicada por una institución.
+- **Evidencia personal:** documentos que conserva una persona sobre su trayectoria.
+- **Dato pendiente de confirmar:** información que requiere respuesta o validación institucional.
+
+La existencia de una página, un correo o una captura no sustituye una constancia oficial de estudios.
+
+## Privacidad
+
+Este repositorio público no está destinado a almacenar expedientes personales, correos privados, contraseñas, identificadores de acceso ni datos personales de terceros.
+
+Las evidencias individuales deben conservarse por separado y compartirse únicamente cuando sea necesario, con la debida revisión y protección de datos.
+
+## Alcance y limitaciones
+
+Este proyecto es una iniciativa independiente de organización documental. No representa a Prepa en Línea-SEP ni sustituye los procedimientos oficiales de consulta, certificación o aclaración académica.
+
+Se recomienda verificar la vigencia de los enlaces y confirmar los requisitos directamente con la institución competente.
+
+## Contribuciones
+
+enlaces oficial actualizado o un recurso público útil, puedes proponer su incorporación indicando la fuente y la fecha de consulta.
+
+
+-----
 
 # prepa-en-linea-sep-documentacion  
 
+### emails y 
+docs & evidencias personalesen repositorio privado: 
+
+<img width="1144" height="968" alt="image" src="https://github.com/user-attachments/assets/987aa815-11bd-4605-9c1d-2ec5e97c4659" />
 
 
 
