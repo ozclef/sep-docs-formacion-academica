@@ -46,6 +46,45 @@ enlaces oficial actualizado o un recurso público útil, puedes proponer su inco
 
 -----
 
+# Solicitud de recuperación y aclaración de antecedentes académicos
+
+```md
+A quien corresponda en Prepa en Línea-SEP:
+
+Por medio de este mensaje solicito orientación para recuperar y, en su caso, obtener una constancia oficial de mi historial académico correspondiente al periodo en que estuve inscrito en el programa.
+
+Conservo correos electrónicos y otros documentos relacionados con mi participación, actividades, retroalimentaciones y comunicaciones sobre regularización o recursamiento. Deseo conocer qué antecedentes académicos se encuentran disponibles y cuál fue el estatus registrado de mi trayectoria.
+
+Agradeceré que me indiquen:
+
+1. Si es posible consultar o expedir un historial de módulos cursados y resultados registrados.
+2. Si existe algún documento oficial que permita acreditar los módulos o actividades aprobados, en caso de que corresponda.
+3. Qué procedimiento debo seguir para solicitar una aclaración de mi estatus académico.
+4. Qué datos o documentos debo presentar para localizar mi expediente.
+
+En caso de que los registros históricos ya no estén disponibles, agradeceré que me informen qué documentación alternativa puede consultarse y cuál es el procedimiento aplicable.
+
+Puedo proporcionar la información necesaria para localizar mi registro por el canal oficial que me indiquen.
+
+Gracias por su atención. Quedo pendiente de sus indicaciones.
+
+Atentamente,
+
+[Nombre completo]  
+[Dato de identificación académica, si se requiere]  
+[Medio de contacto]
+```
+
+
+
+-----
+
+
+----
+
+
+
+
 # prepa-en-linea-sep-documentacion  
 
 ### emails y 
