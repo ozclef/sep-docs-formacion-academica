@@ -55,6 +55,18 @@ docs & evidencias personalesen repositorio privado:
 
 
 
+# EMAILS oficiales originales en repositorio privado + Reenvío por email 
+
+<img width="1105" height="454" alt="image" src="https://github.com/user-attachments/assets/71adbbea-5c7c-46cf-a9c7-65f3260af8d3" />
+<img width="920" height="418" alt="image" src="https://github.com/user-attachments/assets/0ff4975b-b58a-407c-98f2-ef5a846c95bf" />
+
+
+----
+
+
+
+
+
 ```text
 prepa-en-linea-sep-2016-2018
 ```
