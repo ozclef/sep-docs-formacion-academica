@@ -191,17 +191,6 @@ Con eso podemos revisar si el diploma identifica:
 - Tipo exacto de documento.
 
 
-no te apresures a pagar ningún trámite todavía.
-
-años acumulando formación y experiencia. 
-
-expediente académico bien armado, 
-
-no solamente tus 500 repositorios documentados. 
-
-❤️
-
-
 ----
 
 https://www.gob.mx/sep
