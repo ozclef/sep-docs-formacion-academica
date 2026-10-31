@@ -4,6 +4,10 @@
 
 
 
+https://www.gob.mx/sep
+
+
+
 ## Objetivo
 
 Este repositorio reúne enlaces, documentos públicos y referencias útiles para consultar información sobre Prepa en Línea-SEP y orientar la recuperación de antecedentes académicos.
