@@ -6,6 +6,9 @@
 
 https://www.gob.mx/sep
 
+https://tramitesprofesiones.sep.gob.mx/mvc/combo/comboSolicitud
+
+<img width="1105" height="1444" alt="image" src="https://github.com/user-attachments/assets/7f6043ea-0d20-43bb-81d5-cd0bfb00722b" />
 
 
 ## Objetivo
