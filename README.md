@@ -79,6 +79,9 @@ Atentamente,
 
 -----
 
+https://www.educacionsuperior.sep.gob.mx/programas
+
+https://www.gob.mx/cedulaprofesional?tab=Atenci%C3%B3n%20a%20Instituciones
 
 ----
 
