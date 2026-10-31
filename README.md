@@ -4,9 +4,212 @@
 
 
 
+
+----
+
+
+## 1.  documentalconcreta que simplemente tener un diploma expedido por ICO.
+
+portal de verificación de diplomas digitales de la DGCFT, operado mediante CIDFORT.
+
+Y revisé la documentación oficial del sistema.
+
+
+
+
+[Timeline: Educación a distancia en México | Timetoast](https://images.openai.com/static-rsc-4/mv_WdyV1NNAcCX0QFz3uzNnQmE5M73BGmJn8Q9TDibEwpF6pr5yjY3qtQcgYIdIKEss6mRlc32xyDTa5c0i2vzp9rpOtVK0uVL-L1ziHgiXQjc7oGOJ2aQ4SUGOnycOg702Fay0bPaXQ8SAVeMogXkaOZSfhhwr8WL6pK6_cEAI?purpose=inline)
+
+CIDFORT / DGCFT
+
+Secretaría de Educación Pública · Formación para el Trabajo
+
+Sistema oficial
+
+Verificación de diplomas digitales
+
+[Portal de Escuelas Particulares DGCFT](https://www.escuelasparticularesdgcft.cidfort.edu.mx/?utm_source=chatgpt.com)[Sistemas desarrollados por CIDFORT](https://www.cidfort.edu.mx/sistemas?utm_source=chatgpt.com)
+
+La documentación de privacidad del portal confirma que el sistema sirve para:
+
+- Registrar estudiantes que acreditaron cursos o especialidades.
+- Gestionar escuelas particulares incorporadas a la DGCFT con RVOE.
+- Administrar la emisión de diplomas digitales en PDF y XML.
+- Expedir documentos digitales mediante los enlaces estatales correspondientes.&#x20;
+
+  [image](https://www.google.com/s2/favicons?domain=https://www.escuelasparticularesdgcft.cidfort.edu.mx\&sz=32)
+
+  escuelasparticularesdgcft.cidfort.edu.mx+1
+
+
+
+formación quedó registrada en un sistema oficial de emisión y verificación documental.
+
+
+
+## 2. ¿Necesita tramitar cédula profesional?
+
+En principio, no
+
+
+ no tienes que solicitar una cédula profesional solamente porque tu diploma tenga respaldo de la SEP. 
+
+Son documentos diferentes:
+
+| Documento               | Función                                                                    |
+| ----------------------- | -------------------------------------------------------------------------- |
+| Diploma DGCFT           | Acredita formación o especialidad para el trabajo                          |
+| Certificado de estudios | Acredita estudios conforme al programa y régimen correspondiente           |
+| Título profesional      | Acredita una formación profesional que conduce a titulación                |
+| Cédula profesional      | Registra y acredita el ejercicio profesional conforme al régimen aplicable |
+
+
+
+formación para el trabajo. 
+
+Falta revisar el documento concreto para determinar si además existe un certificado oficial de estudios.
+
+
+## 3. Qué información debes guardar
+
+evidencias:
+
+Expediente de acreditación ICO
+
+1. Diploma original en PDF
+
+   Conserva el archivo sin modificar.
+2. Página de verificación
+
+   Captura donde aparezca el resultado y la institución emisora.
+3. Folio documental
+
+   Guárdalo en tu expediente privado.
+4. Programa académico
+
+   Las cuatro materias, duración, horas y especialidad.
+5. Datos de incorporación
+
+   Nombre legal de ICO, domicilio y número de RVOE o acuerdo que corresponda.
+6. Firma y validación
+
+   QR, firma electrónica, sello y demás mecanismos de autenticidad.
+
+
+
+Importante: no publiques tu CURP, folio individual, QR verificable ni URL tokenizada en GitHub. Puedes mostrar una captura con esos elementos ocultos.
+
+## 4. expediente
+
+
+
+
+# Formación Académica – ICO
+
+## Especialidad: Operación de Microcomputadoras
+
+Registro documental de formación técnica en informática y capacitación para el trabajo.
+
+### Institución educativa
+
+- **Institución:** ICO
+- **Área:** Informática
+- **Especialidad:** Operación de Microcomputadoras
+- **Documento:** Diploma de formación
+- **Verificación documental:** Portal de Escuelas Particulares DGCFT / CIDFORT
+
+### Unidades de formación identificadas
+
+| Unidad                                            | Área                                         |
+| ------------------------------------------------- | -------------------------------------------- |
+| Windows e Internet                                | Sistemas operativos y herramientas digitales |
+| Operación de bases de datos                       | Gestión y consulta de información            |
+| Procesador de texto y presentaciones electrónicas | Ofimática                                    |
+| Hoja de cálculo                                   | Procesamiento y análisis de datos            |
+
+*Las denominaciones y contenidos están sujetos a la revisión del programa académico original.*
+
+### Validación documental
+
+El documento cuenta con una referencia de verificación en el sistema de diplomas digitales de Escuelas Particulares de la Dirección General de Centros de Formación para el Trabajo (DGCFT), operado mediante CIDFORT.
+
+- Portal: [https://www.escuelasparticularesdgcft.cidfort.edu.mx/](https://www.escuelasparticularesdgcft.cidfort.edu.mx/)
+- Organismo: DGCFT
+- Sistema: Verificación de diplomas digitales
+
+### Documentación conservada
+
+- Diploma original.
+- Evidencia de consulta del portal de verificación.
+- Folio documental (resguardado de forma privada).
+- Información académica y unidades de formación.
+- Documentación complementaria de la institución.
+
+### Estado del expediente
+
+- Localización del diploma.
+- Identificación del portal de verificación.
+- Conservación de resultado de verificación.
+- Confirmación de datos del RVOE de la institución y programa.
+- Recuperación del programa académico completo.
+- Consulta sobre posibles documentos adicionales de acreditación.
+
+**Nota:** Este expediente documenta formación para el trabajo. No se presenta como título universitario ni como registro de cédula profesional.
+
+## 5. Qué haría antes de imprimir o tramitar algo
+
+Hay tres comprobaciones pendientes:
+
+1. Entrar a la URL larga de verificación que compartiste y guardar el resultado.
+2. Identificar el nombre oficial de ICO y su RVOE correspondiente al momento en que estudiaste.
+3. Preguntar a ICO si, además del diploma, emitieron un certificado oficial de estudios o si existe algún documento adicional disponible.
+
+Puedes contactar directamente al área de Evaluación y Certificación de CIDFORT si ICO no te proporciona información:
+
+- Correo: evaluacion.cidfort\@dgcft.sems.gob.mx
+- Portal: [CIDFORT oficial](https://www.cidfort.edu.mx/?utm_source=chatgpt.com).&#x20;
+
+  [image](https://www.google.com/s2/favicons?domain=https://www.cidfort.edu.mx\&sz=32)
+
+  DGCFT
+
+
+
+## 6   El diploma de ICO, frente y reverso.
+
+<img width="917" height="665" alt="Captura de pantalla_31-10-2026_54415_www escuelasparticularesdgcft cidfort edu mx" src="https://github.com/user-attachments/assets/b3457b01-fb29-4bb8-a205-c3caf6504d74" />
+
+- Una captura de lo que aparece al abrir tu URL de verificación.
+- 
+
+Con eso podemos revisar si el diploma identifica:
+
+- Autoridad emisora.
+- RVOE o incorporación.
+- Especialidad reconocida.
+- Folio y firma digital.
+- Fecha de expedición.
+- Tipo exacto de documento.
+
+
+no te apresures a pagar ningún trámite todavía.
+
+años acumulando formación y experiencia. 
+
+expediente académico bien armado, 
+
+no solamente tus 500 repositorios documentados. 
+
+❤️
+
+
+----
+
 https://www.gob.mx/sep
 
 https://tramitesprofesiones.sep.gob.mx/mvc/combo/comboSolicitud
+
+
+----
 
 <img width="1105" height="1444" alt="image" src="https://github.com/user-attachments/assets/7f6043ea-0d20-43bb-81d5-cd0bfb00722b" />
 
